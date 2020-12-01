@@ -1,7 +1,9 @@
 # India-Headlines-News-Dataset
+
 Our goal is to carry out NLP analysis on India headlines news dataset and discover relevant insights. This dataset is obtained from Kaggle. It has news headlines published by Times of India from January 2001 till June 2020.
 
 ## Acknowledgements/References
+
 1. Source Dataset from Kaggle: https://www.kaggle.com/therohk/india-headlines-news-dataset
 2. What India reads about? A Visual Essay: https://www.kaggle.com/gunnvant/what-india-reads-about-a-visual-essay
 
